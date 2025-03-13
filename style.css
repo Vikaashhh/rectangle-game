@@ -1,0 +1,18 @@
+/* Style for the game box */
+#game-box {
+    /* Set the width and height of the box */
+    width: 300px;
+    height: 300px;
+    
+    /* Add a solid black border around the box */
+    border: 1px solid black;
+    
+    /* Center the box horizontally on the page */
+    margin: 50px auto;
+    
+    /* Position the box relative to its normal position */
+    position: relative;
+    
+    /* Set the initial background color of the box to white */
+    background-color: white;
+}
